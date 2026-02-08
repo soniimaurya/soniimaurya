@@ -59,5 +59,8 @@ Passionate about creating impactful AI solutions and continuously growing as a d
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soniimaurya_USERNAME&show_icons=true&theme=dark)
+### 📊 GitHub Stats  
 
+![Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soniimaurya&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soniimaurya&layout=compact&theme=dark)
